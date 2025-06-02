@@ -8,11 +8,11 @@ body{
 .calculator{
     border:2px solid rgb(83, 78, 78);
     background-color: rgb(112, 103, 103);
-    margin:auto;
+    margin:30px auto;
     width:450px;
     height:700px;
     padding:20px;
-    border-radius:50px;
+    border-radius:100px;
     box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.3);
 }
 
